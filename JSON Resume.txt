@@ -1,0 +1,33 @@
+
+Resume in JSON Format
+
+
+{
+  "basics": {
+    "name": "Abhyuday Ghatale",
+    "label": "Programmer",
+    "email": "ghatale.abhyuday@gmail.com",
+    "phone": "8087442830",
+    "location": {
+      "address": "Amravati",
+      "postalCode": "444604",
+      "city": "Amravati",
+      "countryCode": "IND",
+      "region": "Maharashtra"
+    },
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2016-01-01",
+    "endDate": "2020-01-01",
+    "score": "8.0",
+    "courses": [
+      "CSE"
+    ]
+  }],
+"references": [{
+    "name": "A.G",
+    "reference": "Reference…"
+  }]
+}
